@@ -8,6 +8,7 @@ var urlMap = [
 	{path: "/", action:__dirname + "/static/index.html"},	 
 	{path: "/digest", action: lab1_1},	
 	{path: "/example_1", action: example_1},
+    {path: "/test", action: lab1_2},
 
 ];
 
